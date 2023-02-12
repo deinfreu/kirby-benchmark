@@ -4,8 +4,9 @@ Benchmarking multiple configurations settings with the latest php version and th
 
 ## Current Versions (12 February 2023)
 
-- Kirby 3.9.1
 - Php 8.2.2 (Thread safe)
+- Kirby 3.9.1
+- Starterkit 3.9.1
 
 ## Current configurations tested:
 
