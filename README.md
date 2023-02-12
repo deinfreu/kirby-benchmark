@@ -30,9 +30,8 @@ Source: https://getkirby.com/docs/guide/quickstart
 [fasthttploader](https://github.com/GeorgeLuo/fasthttploader) using GO (Windows, Linux & Mac)
 
 ```
-powershell > fasthttploader http://localhost:8000
+fasthttploader http://localhost:8000
 ```
-!Running 100 connections in 10 seconds http://localhost:8000
 
 
 ## Check PHP
