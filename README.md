@@ -3,6 +3,12 @@
 Benchmarking multiple configurations settings with the latest php version and the latest kirby release. Every Configuration test is based upon a clean php.ini-production
 copy provided with the latest php installment.
 
+### Versions (12 February 2023)
+
+- Php : 8.2.2 (Thread safe)
+- Kirby : 3.9.1
+- Starterkit : 3.9.1
+
 ### Kirby requirements
 
 These PHP extensions are required by Kirby.
@@ -19,12 +25,6 @@ Source: https://getkirby.com/docs/guide/quickstart
 add phpinfo(); to the index.php (Starterkit)
 
 ## Configurations tested:
-
-### Versions (12 February 2023)
-
-- Php : 8.2.2 (Thread safe)
-- Kirby : 3.9.1
-- Starterkit : 3.9.1
 
 - base (production.ini + Kirby PHP extensions)
 - base + Opcache
