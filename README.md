@@ -9,7 +9,7 @@ copy provided with the latest php installment.
 - Kirby : 3.9.1
 - Starterkit : 3.9.1
 
-## PHP settings for kirby 
+## Kirby requirements
 
 These PHP extensions are required by Kirby.
 
