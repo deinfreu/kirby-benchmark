@@ -21,7 +21,7 @@ Source: https://getkirby.com/docs/guide/quickstart
 
 ## Current configurations tested:
 
-- base (production.ini)
+- base (production.ini + Kirby PHP extensions)
 - base + Opcache
 
 ## Benchmark tool:
