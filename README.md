@@ -19,7 +19,7 @@ These PHP extensions are required by Kirby.
 
 Source: https://getkirby.com/docs/guide/quickstart
 
-## Current configurations tested:
+## Configurations tested:
 
 - base (production.ini + Kirby PHP extensions)
 - base + Opcache
