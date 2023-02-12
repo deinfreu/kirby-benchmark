@@ -28,3 +28,8 @@ Source: https://getkirby.com/docs/guide/quickstart
 ## Benchmark tool:
 
 Auto Cannon
+
+
+## Check PHP
+
+add phpinfo(); to the index.php (Kirby - Starterkit)
