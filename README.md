@@ -9,7 +9,7 @@ copy provided with the latest php installment.
 - Kirby : 3.9.1
 - Starterkit : 3.9.1
 
-## Kirby requirements
+### Kirby requirements
 
 These PHP extensions are required by Kirby.
 
@@ -20,12 +20,12 @@ These PHP extensions are required by Kirby.
 
 Source: https://getkirby.com/docs/guide/quickstart
 
-## Configurations tested:
+### Configurations tested:
 
 - base (production.ini + Kirby PHP extensions)
 - base + Opcache
 
-## Benchmark tool:
+### Benchmark tool:
 
 [fasthttploader](https://github.com/GeorgeLuo/fasthttploader) using GO (Windows, Linux & Mac)
 
