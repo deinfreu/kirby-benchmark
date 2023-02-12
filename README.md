@@ -33,7 +33,6 @@ Source: https://getkirby.com/docs/guide/quickstart
 fasthttploader http://localhost:8000
 ```
 
-
 ## Check PHP
 
 add phpinfo(); to the index.php (Kirby - Starterkit)
