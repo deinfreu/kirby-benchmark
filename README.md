@@ -31,6 +31,7 @@ add phpinfo(); to the index.php (Starterkit)
 
 ## Benchmarks:
 
+### Benchmark tool
 [fasthttploader](https://github.com/GeorgeLuo/fasthttploader) using GO (Windows, Linux & Mac)
 
 ```
