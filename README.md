@@ -9,7 +9,7 @@ Benchmarking multiple configurations settings with the latest php version and th
 
 ## Current configurations tested:
 
-- base (production.ini included in the php folder)
+- base (production.ini)
 - base + Opcache
 
 ## Benchmark tool:
