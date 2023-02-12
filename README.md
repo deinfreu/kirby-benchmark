@@ -29,9 +29,9 @@ Source: https://getkirby.com/docs/guide/quickstart
 
 Auto Cannon
 
-'''
+```
 autocannon -c 100 -d 10 http://localhost:8000 // Running 100 connections in 10 seconds http://localhost:8000
-'''
+```
 
 ## Check PHP
 
