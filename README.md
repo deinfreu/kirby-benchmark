@@ -15,7 +15,7 @@ These PHP extensions are required by Kirby.
 
 - mbstring extension
 - curl extension
-- ctype extension
+- ctype extension (deprecated > PHP 8.1)
 - gd extension
 
 Source: https://getkirby.com/docs/guide/quickstart
