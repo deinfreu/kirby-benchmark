@@ -7,6 +7,6 @@ Benchmarking multiple configurations settings with the latest php version and th
 - Kirby 3.9.1
 - Php 8.2.2 (Thread safe)
 
-## Currently tested:
+## Current configurations tested:
 
 Opcache
