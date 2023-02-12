@@ -9,4 +9,8 @@ Benchmarking multiple configurations settings with the latest php version and th
 
 ## Current configurations tested:
 
-Opcache
+- Opcache
+
+## Benchmark tool:
+
+Auto Cannon
