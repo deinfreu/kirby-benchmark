@@ -27,7 +27,7 @@ Source: https://getkirby.com/docs/guide/quickstart
 
 ## Benchmark tool:
 
-[fasthttploader](https://github.com/GeorgeLuo/fasthttploader)
+[fasthttploader](https://github.com/GeorgeLuo/fasthttploader) using GO (Windows, Linux & Mac)
 
 ```
 powershell > fasthttploader http://localhost:8000
