@@ -20,6 +20,12 @@ These PHP extensions are required by Kirby.
 
 Source: https://getkirby.com/docs/guide/quickstart
 
+## Check PHP
+
+add phpinfo(); to the index.php (Starterkit)
+
+## Configurations
+
 ### Configurations tested:
 
 - base (production.ini + Kirby PHP extensions)
@@ -32,7 +38,3 @@ Source: https://getkirby.com/docs/guide/quickstart
 ```
 fasthttploader http://localhost:8000
 ```
-
-## Check PHP
-
-add phpinfo(); to the index.php (Kirby - Starterkit)
