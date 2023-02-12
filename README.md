@@ -9,7 +9,7 @@ copy provided with the latest php installment.
 - Kirby : 3.9.1
 - Starterkit : 3.9.1
 
-### Kirby requirements
+#### Kirby requirements
 
 These PHP extensions are required by Kirby.
 
@@ -20,7 +20,7 @@ These PHP extensions are required by Kirby.
 
 Source: https://getkirby.com/docs/guide/quickstart
 
-### Check PHP info
+#### Check PHP info
 
 add phpinfo(); to the index.php (Starterkit)
 
@@ -31,7 +31,7 @@ add phpinfo(); to the index.php (Starterkit)
 
 ## Benchmarks:
 
-### Benchmark tool
+#### Benchmark tool
 [fasthttploader](https://github.com/GeorgeLuo/fasthttploader) using GO (Windows, Linux & Mac)
 
 ```
