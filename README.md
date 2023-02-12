@@ -27,10 +27,10 @@ Source: https://getkirby.com/docs/guide/quickstart
 
 ## Benchmark tool:
 
-Auto Cannon
+[fasthttploader](https://github.com/GeorgeLuo/fasthttploader)
 
 ```
-autocannon -c 100 -d 10 http://localhost:8000
+powershell > fasthttploader http://localhost:8000
 ```
 !Running 100 connections in 10 seconds http://localhost:8000
 
