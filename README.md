@@ -24,14 +24,12 @@ Source: https://getkirby.com/docs/guide/quickstart
 
 add phpinfo(); to the index.php (Starterkit)
 
-## Configurations
-
-### Configurations tested:
+## Configurations tested:
 
 - base (production.ini + Kirby PHP extensions)
 - base + Opcache
 
-### Benchmark tool:
+## Benchmarks:
 
 [fasthttploader](https://github.com/GeorgeLuo/fasthttploader) using GO (Windows, Linux & Mac)
 
