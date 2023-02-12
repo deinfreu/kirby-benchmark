@@ -1,6 +1,7 @@
 # ⚡️Kirby Speed Benchmark
 
-Benchmarking multiple configurations settings with the latest php version and the latest kirby release. Every Configuration test is based upon a clean production.ini copy provided with the latest php installment.
+Benchmarking multiple configurations settings with the latest php version and the latest kirby release. Every Configuration test is based upon a clean php.ini-production
+copy provided with the latest php installment.
 
 ## Current Versions (12 February 2023)
 
