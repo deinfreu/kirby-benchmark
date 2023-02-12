@@ -20,7 +20,7 @@ These PHP extensions are required by Kirby.
 
 Source: https://getkirby.com/docs/guide/quickstart
 
-## Check PHP
+### Check PHP info
 
 add phpinfo(); to the index.php (Starterkit)
 
